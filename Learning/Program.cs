@@ -6,7 +6,9 @@ namespace Learning
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Date date = new Date(1,12,00001);
+
+            Console.WriteLine(date.GetDate());
         }
     }
 }
