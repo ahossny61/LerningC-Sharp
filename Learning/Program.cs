@@ -9,6 +9,10 @@ namespace Learning
             Date date = new Date(1,12,00001);
 
             Console.WriteLine(date.GetDate());
+
+            Employee emp = Employee.Create(1,"Ahmed","Hosny");
+            Console.WriteLine( emp.DisplayName());
+
         }
     }
 }

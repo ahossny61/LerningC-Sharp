@@ -43,6 +43,9 @@ namespace Learning
 
            
         }
+
+        public Date(int year):this(1,1,year) { }
+        public Date (int year, int month):this(1,month,year) { }
         public Date() { }   
 
         public string GetDate()
