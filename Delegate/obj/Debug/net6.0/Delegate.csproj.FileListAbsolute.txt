@@ -1,0 +1,15 @@
+D:\DotNetLearning\C#\Learning\Delegate\bin\Debug\net6.0\Delegate.exe
+D:\DotNetLearning\C#\Learning\Delegate\bin\Debug\net6.0\Delegate.deps.json
+D:\DotNetLearning\C#\Learning\Delegate\bin\Debug\net6.0\Delegate.runtimeconfig.json
+D:\DotNetLearning\C#\Learning\Delegate\bin\Debug\net6.0\Delegate.dll
+D:\DotNetLearning\C#\Learning\Delegate\bin\Debug\net6.0\Delegate.pdb
+D:\DotNetLearning\C#\Learning\Delegate\obj\Debug\net6.0\Delegate.csproj.AssemblyReference.cache
+D:\DotNetLearning\C#\Learning\Delegate\obj\Debug\net6.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetLearning\C#\Learning\Delegate\obj\Debug\net6.0\Delegate.AssemblyInfoInputs.cache
+D:\DotNetLearning\C#\Learning\Delegate\obj\Debug\net6.0\Delegate.AssemblyInfo.cs
+D:\DotNetLearning\C#\Learning\Delegate\obj\Debug\net6.0\Delegate.csproj.CoreCompileInputs.cache
+D:\DotNetLearning\C#\Learning\Delegate\obj\Debug\net6.0\Delegate.dll
+D:\DotNetLearning\C#\Learning\Delegate\obj\Debug\net6.0\refint\Delegate.dll
+D:\DotNetLearning\C#\Learning\Delegate\obj\Debug\net6.0\Delegate.pdb
+D:\DotNetLearning\C#\Learning\Delegate\obj\Debug\net6.0\Delegate.genruntimeconfig.cache
+D:\DotNetLearning\C#\Learning\Delegate\obj\Debug\net6.0\ref\Delegate.dll
