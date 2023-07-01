@@ -1,0 +1,15 @@
+D:\DotNetLearning\C#\Learning\MulticastDelegate\obj\Debug\net6.0\MulticastDelegate.csproj.AssemblyReference.cache
+D:\DotNetLearning\C#\Learning\MulticastDelegate\obj\Debug\net6.0\MulticastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetLearning\C#\Learning\MulticastDelegate\obj\Debug\net6.0\MulticastDelegate.AssemblyInfoInputs.cache
+D:\DotNetLearning\C#\Learning\MulticastDelegate\obj\Debug\net6.0\MulticastDelegate.AssemblyInfo.cs
+D:\DotNetLearning\C#\Learning\MulticastDelegate\obj\Debug\net6.0\MulticastDelegate.csproj.CoreCompileInputs.cache
+D:\DotNetLearning\C#\Learning\MulticastDelegate\bin\Debug\net6.0\MulticastDelegate.exe
+D:\DotNetLearning\C#\Learning\MulticastDelegate\bin\Debug\net6.0\MulticastDelegate.deps.json
+D:\DotNetLearning\C#\Learning\MulticastDelegate\bin\Debug\net6.0\MulticastDelegate.runtimeconfig.json
+D:\DotNetLearning\C#\Learning\MulticastDelegate\bin\Debug\net6.0\MulticastDelegate.dll
+D:\DotNetLearning\C#\Learning\MulticastDelegate\bin\Debug\net6.0\MulticastDelegate.pdb
+D:\DotNetLearning\C#\Learning\MulticastDelegate\obj\Debug\net6.0\MulticastDelegate.dll
+D:\DotNetLearning\C#\Learning\MulticastDelegate\obj\Debug\net6.0\refint\MulticastDelegate.dll
+D:\DotNetLearning\C#\Learning\MulticastDelegate\obj\Debug\net6.0\MulticastDelegate.pdb
+D:\DotNetLearning\C#\Learning\MulticastDelegate\obj\Debug\net6.0\MulticastDelegate.genruntimeconfig.cache
+D:\DotNetLearning\C#\Learning\MulticastDelegate\obj\Debug\net6.0\ref\MulticastDelegate.dll

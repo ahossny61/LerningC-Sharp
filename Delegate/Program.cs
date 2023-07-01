@@ -36,3 +36,5 @@ var employees = new Employee[]
 Report report = new Report();
 report.SalaryWithAndPlus6000(employees);
 report.DelegateExample(employees, "Employees that greater than 2000",(Employee emp)=>emp.TotalSalary > 2000);
+report.DelegateExample(employees, "Employees that greater than 7000",  emp => emp.TotalSalary > 7000);
+
