@@ -1,0 +1,15 @@
+D:\DotNetLearning\C#\Learning\Events\bin\Debug\net6.0\Events.exe
+D:\DotNetLearning\C#\Learning\Events\bin\Debug\net6.0\Events.deps.json
+D:\DotNetLearning\C#\Learning\Events\bin\Debug\net6.0\Events.runtimeconfig.json
+D:\DotNetLearning\C#\Learning\Events\bin\Debug\net6.0\Events.dll
+D:\DotNetLearning\C#\Learning\Events\bin\Debug\net6.0\Events.pdb
+D:\DotNetLearning\C#\Learning\Events\obj\Debug\net6.0\Events.csproj.AssemblyReference.cache
+D:\DotNetLearning\C#\Learning\Events\obj\Debug\net6.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetLearning\C#\Learning\Events\obj\Debug\net6.0\Events.AssemblyInfoInputs.cache
+D:\DotNetLearning\C#\Learning\Events\obj\Debug\net6.0\Events.AssemblyInfo.cs
+D:\DotNetLearning\C#\Learning\Events\obj\Debug\net6.0\Events.csproj.CoreCompileInputs.cache
+D:\DotNetLearning\C#\Learning\Events\obj\Debug\net6.0\Events.dll
+D:\DotNetLearning\C#\Learning\Events\obj\Debug\net6.0\refint\Events.dll
+D:\DotNetLearning\C#\Learning\Events\obj\Debug\net6.0\Events.pdb
+D:\DotNetLearning\C#\Learning\Events\obj\Debug\net6.0\Events.genruntimeconfig.cache
+D:\DotNetLearning\C#\Learning\Events\obj\Debug\net6.0\ref\Events.dll

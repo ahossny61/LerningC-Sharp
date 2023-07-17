@@ -21,6 +21,25 @@ namespace Learning
             var ip2 = new IP("192.168.1.0");
             Console.WriteLine(ip2.GetIP);
 
+            Test t = new Test();
+
+
         }
+    }
+
+    public abstract class Test
+    {
+        public int x { set; get; }
+        public abstract int y { set; get; }
+        public void print()
+        {
+            Console.WriteLine("hi");
+        }
+        public abstract void Printf();
+    }
+
+    public class abstract_child : Test
+    {
+        public override int y { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
     }
 }
