@@ -11,6 +11,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MulticastDelegate", "Multic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{F087CA6F-7F91-4CAF-B069-9411444C8438}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOverloading", "OperatorOverloading\OperatorOverloading.csproj", "{E29BD27A-AC60-4FF5-BBB8-B54E5A38C88E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finalizer", "Finalizer\Finalizer.csproj", "{09769F99-5F51-4B1E-B1A7-EBB7924632AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{F087CA6F-7F91-4CAF-B069-9411444C8438}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F087CA6F-7F91-4CAF-B069-9411444C8438}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F087CA6F-7F91-4CAF-B069-9411444C8438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E29BD27A-AC60-4FF5-BBB8-B54E5A38C88E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E29BD27A-AC60-4FF5-BBB8-B54E5A38C88E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E29BD27A-AC60-4FF5-BBB8-B54E5A38C88E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E29BD27A-AC60-4FF5-BBB8-B54E5A38C88E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09769F99-5F51-4B1E-B1A7-EBB7924632AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09769F99-5F51-4B1E-B1A7-EBB7924632AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09769F99-5F51-4B1E-B1A7-EBB7924632AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09769F99-5F51-4B1E-B1A7-EBB7924632AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

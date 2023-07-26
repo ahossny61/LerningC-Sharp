@@ -1,0 +1,15 @@
+D:\DotNetLearning\C#\Learning\Finalizer\bin\Debug\net6.0\Finalizer.exe
+D:\DotNetLearning\C#\Learning\Finalizer\bin\Debug\net6.0\Finalizer.deps.json
+D:\DotNetLearning\C#\Learning\Finalizer\bin\Debug\net6.0\Finalizer.runtimeconfig.json
+D:\DotNetLearning\C#\Learning\Finalizer\bin\Debug\net6.0\Finalizer.dll
+D:\DotNetLearning\C#\Learning\Finalizer\bin\Debug\net6.0\Finalizer.pdb
+D:\DotNetLearning\C#\Learning\Finalizer\obj\Debug\net6.0\Finalizer.csproj.AssemblyReference.cache
+D:\DotNetLearning\C#\Learning\Finalizer\obj\Debug\net6.0\Finalizer.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetLearning\C#\Learning\Finalizer\obj\Debug\net6.0\Finalizer.AssemblyInfoInputs.cache
+D:\DotNetLearning\C#\Learning\Finalizer\obj\Debug\net6.0\Finalizer.AssemblyInfo.cs
+D:\DotNetLearning\C#\Learning\Finalizer\obj\Debug\net6.0\Finalizer.csproj.CoreCompileInputs.cache
+D:\DotNetLearning\C#\Learning\Finalizer\obj\Debug\net6.0\Finalizer.dll
+D:\DotNetLearning\C#\Learning\Finalizer\obj\Debug\net6.0\refint\Finalizer.dll
+D:\DotNetLearning\C#\Learning\Finalizer\obj\Debug\net6.0\Finalizer.pdb
+D:\DotNetLearning\C#\Learning\Finalizer\obj\Debug\net6.0\Finalizer.genruntimeconfig.cache
+D:\DotNetLearning\C#\Learning\Finalizer\obj\Debug\net6.0\ref\Finalizer.dll

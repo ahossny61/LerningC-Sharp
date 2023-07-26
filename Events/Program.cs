@@ -7,7 +7,18 @@ Console.WriteLine("Old Price "+stock.Price);
 stock.ChangeStockPriceBy(0.05m);
 Console.WriteLine("New Price "+ stock.Price);
 
- void StockPriceChanged(Stock stock, decimal oldPrice)
+
+//  Example 2 
+
+Door door = new Door();
+door.DoorOpened += (sender, e) =>
+{
+    Console.WriteLine("Someone opened the door.");
+};
+
+door.Open();
+
+void StockPriceChanged(Stock stock, decimal oldPrice)
 {
     if(stock.Price > oldPrice)
     {
@@ -50,3 +61,29 @@ public class Stock
         }
     }
 }
+
+
+
+
+public class Door
+{
+    // Define a delegate type for the event
+    public delegate void DoorEventHandler(object sender, EventArgs e);
+
+    // Declare an event of the delegate type
+    public event DoorEventHandler DoorOpened;
+
+    public void Open()
+    {
+        Console.WriteLine("The door is opened.");
+        // Raise the event when the door is opened
+        OnDoorOpened(EventArgs.Empty);
+    }
+
+    protected virtual void OnDoorOpened(EventArgs e)
+    {
+        DoorOpened?.Invoke(this, e);
+    }
+}
+
+
