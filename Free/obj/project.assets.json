@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DotNetLearning\\C#\\Learning\\Free\\Free.csproj",
+      "projectUniqueName": "D:\\ProgrammingLanguages\\C#\\Learning\\Free\\Free.csproj",
       "projectName": "Free",
-      "projectPath": "D:\\DotNetLearning\\C#\\Learning\\Free\\Free.csproj",
+      "projectPath": "D:\\ProgrammingLanguages\\C#\\Learning\\Free\\Free.csproj",
       "packagesPath": "C:\\Users\\ahoss\\.nuget\\packages\\",
-      "outputPath": "D:\\DotNetLearning\\C#\\Learning\\Free\\obj\\",
+      "outputPath": "D:\\ProgrammingLanguages\\C#\\Learning\\Free\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ahoss\\AppData\\Roaming\\NuGet\\NuGet.Config",

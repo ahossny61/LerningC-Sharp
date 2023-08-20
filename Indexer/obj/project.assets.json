@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DotNetLearning\\C#\\Learning\\Indexer\\Indexer.csproj",
+      "projectUniqueName": "D:\\ProgrammingLanguages\\C#\\Learning\\Indexer\\Indexer.csproj",
       "projectName": "Indexer",
-      "projectPath": "D:\\DotNetLearning\\C#\\Learning\\Indexer\\Indexer.csproj",
+      "projectPath": "D:\\ProgrammingLanguages\\C#\\Learning\\Indexer\\Indexer.csproj",
       "packagesPath": "C:\\Users\\ahoss\\.nuget\\packages\\",
-      "outputPath": "D:\\DotNetLearning\\C#\\Learning\\Indexer\\obj\\",
+      "outputPath": "D:\\ProgrammingLanguages\\C#\\Learning\\Indexer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ahoss\\AppData\\Roaming\\NuGet\\NuGet.Config",

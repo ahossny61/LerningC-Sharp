@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DotNetLearning\\C#\\Learning\\Events\\Events.csproj",
+      "projectUniqueName": "D:\\ProgrammingLanguages\\C#\\Learning\\Events\\Events.csproj",
       "projectName": "Events",
-      "projectPath": "D:\\DotNetLearning\\C#\\Learning\\Events\\Events.csproj",
+      "projectPath": "D:\\ProgrammingLanguages\\C#\\Learning\\Events\\Events.csproj",
       "packagesPath": "C:\\Users\\ahoss\\.nuget\\packages\\",
-      "outputPath": "D:\\DotNetLearning\\C#\\Learning\\Events\\obj\\",
+      "outputPath": "D:\\ProgrammingLanguages\\C#\\Learning\\Events\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ahoss\\AppData\\Roaming\\NuGet\\NuGet.Config",

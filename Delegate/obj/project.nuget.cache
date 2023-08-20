@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C83iR7SLHUufmlzlnUUb1kKxy5XjpJzHK9UKqJ4vwOQ02ZNf0opFMmGrtEjA+F6IWU8YhvUwn675sOeciWaUFg==",
+  "dgSpecHash": "ECklu2NS8rQwKn5/J+F0ri927Z+4pVUBb2+1XGTHNx7h6vJdfgs+P+dTzipEpEbY302IXFSjOpp+xx5IcrxkSA==",
   "success": true,
-  "projectFilePath": "D:\\DotNetLearning\\C#\\Learning\\Delegate\\Delegate.csproj",
+  "projectFilePath": "D:\\ProgrammingLanguages\\C#\\Learning\\Delegate\\Delegate.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

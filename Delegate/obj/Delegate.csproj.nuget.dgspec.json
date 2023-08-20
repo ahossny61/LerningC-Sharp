@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DotNetLearning\\C#\\Learning\\Delegate\\Delegate.csproj": {}
+    "D:\\ProgrammingLanguages\\C#\\Learning\\Delegate\\Delegate.csproj": {}
   },
   "projects": {
-    "D:\\DotNetLearning\\C#\\Learning\\Delegate\\Delegate.csproj": {
+    "D:\\ProgrammingLanguages\\C#\\Learning\\Delegate\\Delegate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DotNetLearning\\C#\\Learning\\Delegate\\Delegate.csproj",
+        "projectUniqueName": "D:\\ProgrammingLanguages\\C#\\Learning\\Delegate\\Delegate.csproj",
         "projectName": "Delegate",
-        "projectPath": "D:\\DotNetLearning\\C#\\Learning\\Delegate\\Delegate.csproj",
+        "projectPath": "D:\\ProgrammingLanguages\\C#\\Learning\\Delegate\\Delegate.csproj",
         "packagesPath": "C:\\Users\\ahoss\\.nuget\\packages\\",
-        "outputPath": "D:\\DotNetLearning\\C#\\Learning\\Delegate\\obj\\",
+        "outputPath": "D:\\ProgrammingLanguages\\C#\\Learning\\Delegate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ahoss\\AppData\\Roaming\\NuGet\\NuGet.Config",

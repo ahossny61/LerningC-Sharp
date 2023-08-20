@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DotNetLearning\\C#\\Learning\\Finalizer\\Finalizer.csproj": {}
+    "D:\\ProgrammingLanguages\\C#\\Learning\\Finalizer\\Finalizer.csproj": {}
   },
   "projects": {
-    "D:\\DotNetLearning\\C#\\Learning\\Finalizer\\Finalizer.csproj": {
+    "D:\\ProgrammingLanguages\\C#\\Learning\\Finalizer\\Finalizer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DotNetLearning\\C#\\Learning\\Finalizer\\Finalizer.csproj",
+        "projectUniqueName": "D:\\ProgrammingLanguages\\C#\\Learning\\Finalizer\\Finalizer.csproj",
         "projectName": "Finalizer",
-        "projectPath": "D:\\DotNetLearning\\C#\\Learning\\Finalizer\\Finalizer.csproj",
+        "projectPath": "D:\\ProgrammingLanguages\\C#\\Learning\\Finalizer\\Finalizer.csproj",
         "packagesPath": "C:\\Users\\ahoss\\.nuget\\packages\\",
-        "outputPath": "D:\\DotNetLearning\\C#\\Learning\\Finalizer\\obj\\",
+        "outputPath": "D:\\ProgrammingLanguages\\C#\\Learning\\Finalizer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ahoss\\AppData\\Roaming\\NuGet\\NuGet.Config",

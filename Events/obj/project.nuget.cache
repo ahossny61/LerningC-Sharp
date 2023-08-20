@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yeDUJt51qF3ktUdW98EZuL7ZYTHBQIJJKWxXBTtE10H4knbrcK2Mnqf3V47pB9qGpdJ7i7edPDVrIYUA0e8d/g==",
+  "dgSpecHash": "ALdLnWdaAjobGq1UCNYkRX78bJ233h6TSGQgU97hNCb466nc+ewtFOTRbceFeO/kcePB4rI2B+ZFOWyFxQVbqw==",
   "success": true,
-  "projectFilePath": "D:\\DotNetLearning\\C#\\Learning\\Events\\Events.csproj",
+  "projectFilePath": "D:\\ProgrammingLanguages\\C#\\Learning\\Events\\Events.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

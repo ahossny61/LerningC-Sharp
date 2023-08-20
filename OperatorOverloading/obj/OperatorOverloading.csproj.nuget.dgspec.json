@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DotNetLearning\\C#\\Learning\\OperatorOverloading\\OperatorOverloading.csproj": {}
+    "D:\\ProgrammingLanguages\\C#\\Learning\\OperatorOverloading\\OperatorOverloading.csproj": {}
   },
   "projects": {
-    "D:\\DotNetLearning\\C#\\Learning\\OperatorOverloading\\OperatorOverloading.csproj": {
+    "D:\\ProgrammingLanguages\\C#\\Learning\\OperatorOverloading\\OperatorOverloading.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DotNetLearning\\C#\\Learning\\OperatorOverloading\\OperatorOverloading.csproj",
+        "projectUniqueName": "D:\\ProgrammingLanguages\\C#\\Learning\\OperatorOverloading\\OperatorOverloading.csproj",
         "projectName": "OperatorOverloading",
-        "projectPath": "D:\\DotNetLearning\\C#\\Learning\\OperatorOverloading\\OperatorOverloading.csproj",
+        "projectPath": "D:\\ProgrammingLanguages\\C#\\Learning\\OperatorOverloading\\OperatorOverloading.csproj",
         "packagesPath": "C:\\Users\\ahoss\\.nuget\\packages\\",
-        "outputPath": "D:\\DotNetLearning\\C#\\Learning\\OperatorOverloading\\obj\\",
+        "outputPath": "D:\\ProgrammingLanguages\\C#\\Learning\\OperatorOverloading\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ahoss\\AppData\\Roaming\\NuGet\\NuGet.Config",

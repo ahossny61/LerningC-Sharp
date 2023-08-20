@@ -1,0 +1,15 @@
+D:\DotNetLearning\C#\Learning\Real Examples\bin\Debug\net6.0\Real Examples.exe
+D:\DotNetLearning\C#\Learning\Real Examples\bin\Debug\net6.0\Real Examples.deps.json
+D:\DotNetLearning\C#\Learning\Real Examples\bin\Debug\net6.0\Real Examples.runtimeconfig.json
+D:\DotNetLearning\C#\Learning\Real Examples\bin\Debug\net6.0\Real Examples.dll
+D:\DotNetLearning\C#\Learning\Real Examples\bin\Debug\net6.0\Real Examples.pdb
+D:\DotNetLearning\C#\Learning\Real Examples\obj\Debug\net6.0\Real Examples.csproj.AssemblyReference.cache
+D:\DotNetLearning\C#\Learning\Real Examples\obj\Debug\net6.0\Real Examples.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetLearning\C#\Learning\Real Examples\obj\Debug\net6.0\Real Examples.AssemblyInfoInputs.cache
+D:\DotNetLearning\C#\Learning\Real Examples\obj\Debug\net6.0\Real Examples.AssemblyInfo.cs
+D:\DotNetLearning\C#\Learning\Real Examples\obj\Debug\net6.0\Real Examples.csproj.CoreCompileInputs.cache
+D:\DotNetLearning\C#\Learning\Real Examples\obj\Debug\net6.0\Real Examples.dll
+D:\DotNetLearning\C#\Learning\Real Examples\obj\Debug\net6.0\refint\Real Examples.dll
+D:\DotNetLearning\C#\Learning\Real Examples\obj\Debug\net6.0\Real Examples.pdb
+D:\DotNetLearning\C#\Learning\Real Examples\obj\Debug\net6.0\Real Examples.genruntimeconfig.cache
+D:\DotNetLearning\C#\Learning\Real Examples\obj\Debug\net6.0\ref\Real Examples.dll

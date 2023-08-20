@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DotNetLearning\\C#\\Learning\\MulticastDelegate\\MulticastDelegate.csproj": {}
+    "D:\\ProgrammingLanguages\\C#\\Learning\\MulticastDelegate\\MulticastDelegate.csproj": {}
   },
   "projects": {
-    "D:\\DotNetLearning\\C#\\Learning\\MulticastDelegate\\MulticastDelegate.csproj": {
+    "D:\\ProgrammingLanguages\\C#\\Learning\\MulticastDelegate\\MulticastDelegate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DotNetLearning\\C#\\Learning\\MulticastDelegate\\MulticastDelegate.csproj",
+        "projectUniqueName": "D:\\ProgrammingLanguages\\C#\\Learning\\MulticastDelegate\\MulticastDelegate.csproj",
         "projectName": "MulticastDelegate",
-        "projectPath": "D:\\DotNetLearning\\C#\\Learning\\MulticastDelegate\\MulticastDelegate.csproj",
+        "projectPath": "D:\\ProgrammingLanguages\\C#\\Learning\\MulticastDelegate\\MulticastDelegate.csproj",
         "packagesPath": "C:\\Users\\ahoss\\.nuget\\packages\\",
-        "outputPath": "D:\\DotNetLearning\\C#\\Learning\\MulticastDelegate\\obj\\",
+        "outputPath": "D:\\ProgrammingLanguages\\C#\\Learning\\MulticastDelegate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ahoss\\AppData\\Roaming\\NuGet\\NuGet.Config",
